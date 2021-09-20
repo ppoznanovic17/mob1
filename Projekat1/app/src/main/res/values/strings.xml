@@ -1,0 +1,72 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    //log in
+    <string name="logInTitle">Novcanik sistem za studente RAF-a</string>
+    <string name="logInEnterName">Unesite ime</string>
+    <string name="logInEnterLastName">Unesite prezime</string>
+    <string name="logInEnterBank">Unesite ime banke</string>
+    <string name="logInEnterPassword">Unesite sifru</string>
+    <string name="logInButton">Prijava</string>
+
+    //bottom menu
+    <string name="menuState">Stanje</string>
+    <string name="menuInsert">Unos</string>
+    <string name="menuList">Liste</string>
+    <string name="menuProfile">Profil</string>
+
+    //state
+    <string name="stateTitle">Pregled ukupnog stanja racuna</string>
+    <string name="statePrihod">Prihod:</string>
+    <string name="stateRashod">Rashod:</string>
+    <string name="stateRazlzika">Razlika:</string>
+
+    //insert
+    <string name="insertTitle">Unos novog prihoda ili rashoda</string>
+    <string name="insertNaslov">Naslov</string>
+    <string name="insertKolicina">Kolicina</string>
+    <string name="insertOpis">Opis</string>
+    <string name="insertButton">Dodaj u listu</string>
+
+    //edit transaction
+    <string name="editTitle">Unos novog prihoda ili rashoda</string>
+    <string name="editNaslovTv">Naslov:</string>
+    <string name="editKolicinaTv">Kolicina:</string>
+    <string name="editNaslovEt">Naslov</string>
+    <string name="editKolicinaEt">Kolicina</string>
+    <string name="editOpisTv">Opis:</string>
+    <string name="editOpisEt">Opis</string>
+    <string name="editOdustaniButton">Odustani</string>
+    <string name="editIzmeniButton">Izmeni</string>
+
+    //profil
+    <string name="profileTitle">Podaci o korinsiku</string>
+    <string name="profileIme">Ime:</string>
+    <string name="profilePrezime">Prezime:</string>
+    <string name="profileBanka">Banka:</string>
+    <string name="profileIzmeniBtn">Izmeni</string>
+    <string name="profileOdjavaBtn">Odjava</string>
+
+
+    // see transaction
+    <string name="transactionTitle">Unos novog prihoda ili rashoda</string>
+    <string name="transactionNaslovTv">Naslov:</string>
+    <string name="transactionKolicinaTv">Kolicina:</string>
+    <string name="transactionNaslovEt">Naslov</string>
+    <string name="transactionKolicinaEt">Kolicina</string>
+    <string name="transactionOpisTv">Opis:</string>
+    <string name="transactionOpisEt">Opis</string>
+
+    //prihod lista
+    <string name="listaPrihoda">Lista prihoda</string>
+
+    //prihod lista
+    <string name="listaRashoda">Lista rashoda</string>
+
+    //promena profila
+    <string name="profileUpdatequit">Odustani</string>
+    <string name="profileUpdateDone">Izmeni</string>
+
+
+
+</resources>
